@@ -1,3 +1,3 @@
 # microbit
 
-microbitのソースコードを格納するリポジトリ
+microbit用のソースコードを格納するリポジトリ
